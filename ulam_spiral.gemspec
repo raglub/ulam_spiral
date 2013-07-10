@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["raglub.ruby@gmail.com"]
   spec.description   = %q{This gem can generate Ulam spiral and also shows result on console}
   spec.summary       = %q{Ulam spiral}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/raglub/ulam_spiral"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
